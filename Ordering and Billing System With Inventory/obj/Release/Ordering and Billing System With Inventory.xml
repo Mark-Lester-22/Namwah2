@@ -1,0 +1,891 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Ordering and Billing System With Inventory
+</name>
+</assembly>
+<members>
+<member name="T:Ordering_and_Billing_System_With_Inventory.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Ordering_and_Billing_System_With_Inventory.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Ordering_and_Billing_System_With_Inventory.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Ordering_and_Billing_System_With_Inventory.My.Resources.Resources.account_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ordering_and_Billing_System_With_Inventory.My.Resources.Resources.add_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ordering_and_Billing_System_With_Inventory.My.Resources.Resources.background_template_with_chinese_patterns_red_1308_38164">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ordering_and_Billing_System_With_Inventory.My.Resources.Resources.billing_machine_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ordering_and_Billing_System_With_Inventory.My.Resources.Resources.clear_symbol_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ordering_and_Billing_System_With_Inventory.My.Resources.Resources.create_order_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ordering_and_Billing_System_With_Inventory.My.Resources.Resources.cutlery_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ordering_and_Billing_System_With_Inventory.My.Resources.Resources.cutlery_32px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ordering_and_Billing_System_With_Inventory.My.Resources.Resources.delete_document_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ordering_and_Billing_System_With_Inventory.My.Resources.Resources.delivery_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ordering_and_Billing_System_With_Inventory.My.Resources.Resources.kawaii_steak_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ordering_and_Billing_System_With_Inventory.My.Resources.Resources.logout_rounded_left_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ordering_and_Billing_System_With_Inventory.My.Resources.Resources.maintenance">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ordering_and_Billing_System_With_Inventory.My.Resources.Resources.maintenance_1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ordering_and_Billing_System_With_Inventory.My.Resources.Resources.maintenance_4_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ordering_and_Billing_System_With_Inventory.My.Resources.Resources.maintenance_5_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ordering_and_Billing_System_With_Inventory.My.Resources.Resources.maintenance_6_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ordering_and_Billing_System_With_Inventory.My.Resources.Resources.Maintenance_7_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ordering_and_Billing_System_With_Inventory.My.Resources.Resources.name_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ordering_and_Billing_System_With_Inventory.My.Resources.Resources.namwah_logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ordering_and_Billing_System_With_Inventory.My.Resources.Resources.password_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ordering_and_Billing_System_With_Inventory.My.Resources.Resources.product_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ordering_and_Billing_System_With_Inventory.My.Resources.Resources.refresh_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ordering_and_Billing_System_With_Inventory.My.Resources.Resources.report_file_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ordering_and_Billing_System_With_Inventory.My.Resources.Resources.reservation_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ordering_and_Billing_System_With_Inventory.My.Resources.Resources.save_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ordering_and_Billing_System_With_Inventory.My.Resources.Resources.shutdown_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ordering_and_Billing_System_With_Inventory.My.Resources.Resources.submit_for_approval_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ordering_and_Billing_System_With_Inventory.My.Resources.Resources.Table_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ordering_and_Billing_System_With_Inventory.My.Resources.Resources.Untitled2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.accountsDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.accountsDataSet.AccountsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.accountsDataSet.AccountsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.accountsDataSet.AccountsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.accountsDataSetTableAdapters.AccountsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.accountsDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.accountsDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Ordering_and_Billing_System_With_Inventory.accountsDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.accountsDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Ordering_and_Billing_System_With_Inventory.accountsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.accountsDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Ordering_and_Billing_System_With_Inventory.accountsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.accountsDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.accountsDataSetTableAdapters.TableAdapterManager.UpdateAll(Ordering_and_Billing_System_With_Inventory.accountsDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.accountsDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.accountsDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.billingDS">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.billingDS.BillingsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.billingDS.BillingsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.billingDS.BillingsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.billingDSTableAdapters.BillingsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.billingDSTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.billingDSTableAdapters.TableAdapterManager.UpdateUpdatedRows(Ordering_and_Billing_System_With_Inventory.billingDS,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.billingDSTableAdapters.TableAdapterManager.UpdateInsertedRows(Ordering_and_Billing_System_With_Inventory.billingDS,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.billingDSTableAdapters.TableAdapterManager.UpdateDeletedRows(Ordering_and_Billing_System_With_Inventory.billingDS,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.billingDSTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.billingDSTableAdapters.TableAdapterManager.UpdateAll(Ordering_and_Billing_System_With_Inventory.billingDS)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.billingDSTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.billingDSTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.DeliveryDS">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.DeliveryDS.DeliveryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.DeliveryDS.DeliveryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.DeliveryDS.DeliveryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.DeliveryDSTableAdapters.DeliveryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.DeliveryDSTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.DeliveryDSTableAdapters.TableAdapterManager.UpdateUpdatedRows(Ordering_and_Billing_System_With_Inventory.DeliveryDS,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.DeliveryDSTableAdapters.TableAdapterManager.UpdateInsertedRows(Ordering_and_Billing_System_With_Inventory.DeliveryDS,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.DeliveryDSTableAdapters.TableAdapterManager.UpdateDeletedRows(Ordering_and_Billing_System_With_Inventory.DeliveryDS,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.DeliveryDSTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.DeliveryDSTableAdapters.TableAdapterManager.UpdateAll(Ordering_and_Billing_System_With_Inventory.DeliveryDS)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.DeliveryDSTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.DeliveryDSTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.inventoryDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.inventoryDataSet.InventoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.inventoryDataSet.InventoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.inventoryDataSet.InventoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.inventoryDataSetTableAdapters.InventoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.inventoryDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.inventoryDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Ordering_and_Billing_System_With_Inventory.inventoryDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.inventoryDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Ordering_and_Billing_System_With_Inventory.inventoryDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.inventoryDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Ordering_and_Billing_System_With_Inventory.inventoryDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.inventoryDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.inventoryDataSetTableAdapters.TableAdapterManager.UpdateAll(Ordering_and_Billing_System_With_Inventory.inventoryDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.inventoryDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.inventoryDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.menusDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.menusDataSet.MenusDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.menusDataSet.MenusRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.menusDataSet.MenusRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.menusDataSetTableAdapters.MenusTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.menusDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.menusDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Ordering_and_Billing_System_With_Inventory.menusDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.menusDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Ordering_and_Billing_System_With_Inventory.menusDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.menusDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Ordering_and_Billing_System_With_Inventory.menusDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.menusDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.menusDataSetTableAdapters.TableAdapterManager.UpdateAll(Ordering_and_Billing_System_With_Inventory.menusDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.menusDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.menusDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.namwahDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.namwahDataSet.MenusDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.namwahDataSet.MenusRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.namwahDataSet.MenusRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.namwahDataSetTableAdapters.MenusTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.namwahDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.namwahDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Ordering_and_Billing_System_With_Inventory.namwahDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.namwahDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Ordering_and_Billing_System_With_Inventory.namwahDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.namwahDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Ordering_and_Billing_System_With_Inventory.namwahDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.namwahDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.namwahDataSetTableAdapters.TableAdapterManager.UpdateAll(Ordering_and_Billing_System_With_Inventory.namwahDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.namwahDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.namwahDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.namwahOrdersDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.namwahOrdersDataSet.OrdersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.namwahOrdersDataSet.OrdersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.namwahOrdersDataSet.OrdersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.namwahOrdersDataSetTableAdapters.OrdersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.namwahOrdersDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.namwahOrdersDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Ordering_and_Billing_System_With_Inventory.namwahOrdersDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.namwahOrdersDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Ordering_and_Billing_System_With_Inventory.namwahOrdersDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.namwahOrdersDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Ordering_and_Billing_System_With_Inventory.namwahOrdersDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.namwahOrdersDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.namwahOrdersDataSetTableAdapters.TableAdapterManager.UpdateAll(Ordering_and_Billing_System_With_Inventory.namwahOrdersDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.namwahOrdersDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.namwahOrdersDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.ordersDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.ordersDataSet.OrdersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.ordersDataSet.OrdersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.ordersDataSet.OrdersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.ordersDataSetTableAdapters.OrdersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.ordersDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.ordersDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Ordering_and_Billing_System_With_Inventory.ordersDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.ordersDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Ordering_and_Billing_System_With_Inventory.ordersDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.ordersDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Ordering_and_Billing_System_With_Inventory.ordersDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.ordersDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.ordersDataSetTableAdapters.TableAdapterManager.UpdateAll(Ordering_and_Billing_System_With_Inventory.ordersDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.ordersDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.ordersDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.reservationDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.reservationDataSet.ReservationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.reservationDataSet.ReservationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.reservationDataSet.ReservationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.reservationDataSetTableAdapters.ReservationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.reservationDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.reservationDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Ordering_and_Billing_System_With_Inventory.reservationDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.reservationDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Ordering_and_Billing_System_With_Inventory.reservationDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.reservationDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Ordering_and_Billing_System_With_Inventory.reservationDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.reservationDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.reservationDataSetTableAdapters.TableAdapterManager.UpdateAll(Ordering_and_Billing_System_With_Inventory.reservationDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.reservationDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.reservationDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.reservationDS">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.reservationDS.ReservationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.reservationDS.ReservationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.reservationDS.ReservationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.reservationDSTableAdapters.ReservationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.reservationDSTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.reservationDSTableAdapters.TableAdapterManager.UpdateUpdatedRows(Ordering_and_Billing_System_With_Inventory.reservationDS,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.reservationDSTableAdapters.TableAdapterManager.UpdateInsertedRows(Ordering_and_Billing_System_With_Inventory.reservationDS,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.reservationDSTableAdapters.TableAdapterManager.UpdateDeletedRows(Ordering_and_Billing_System_With_Inventory.reservationDS,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.reservationDSTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.reservationDSTableAdapters.TableAdapterManager.UpdateAll(Ordering_and_Billing_System_With_Inventory.reservationDS)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.reservationDSTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.reservationDSTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.TableManagementDS">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.TableManagementDS.TableManagementDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.TableManagementDS.TableManagementRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.TableManagementDS.TableManagementRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.TableManagementDSTableAdapters.TableManagementTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.TableManagementDSTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.TableManagementDSTableAdapters.TableAdapterManager.UpdateUpdatedRows(Ordering_and_Billing_System_With_Inventory.TableManagementDS,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.TableManagementDSTableAdapters.TableAdapterManager.UpdateInsertedRows(Ordering_and_Billing_System_With_Inventory.TableManagementDS,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.TableManagementDSTableAdapters.TableAdapterManager.UpdateDeletedRows(Ordering_and_Billing_System_With_Inventory.TableManagementDS,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.TableManagementDSTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Ordering_and_Billing_System_With_Inventory.TableManagementDSTableAdapters.TableAdapterManager.UpdateAll(Ordering_and_Billing_System_With_Inventory.TableManagementDS)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.TableManagementDSTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Ordering_and_Billing_System_With_Inventory.TableManagementDSTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
